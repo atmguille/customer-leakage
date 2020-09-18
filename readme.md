@@ -10,4 +10,4 @@ We were required to predict the 100 clients that were most likely to leave a tel
 2. Models: optimize the hyperparameters and train three main models (KNN, Decision Tree and MLP)
 3. Predict the 100 clients: this predictions are stored in their correspondent `csv`. In addition to this, for the final prediction, we decided to combine the predictions of the models.
 
-For the detailed and step-by-step implementation, check [customer_leakage.ipynb]()
+For the detailed and step-by-step implementation, check [customer_leakage.ipynb](https://github.com/atmguille/customer-leakage/blob/master/customer_leakage.ipynb)
